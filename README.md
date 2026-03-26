@@ -6,7 +6,7 @@ using Pe3doWpf — the ProEssentials 3D scientific graph object. Loads the same
 but renders it as an interactive rotating **3D heightmap surface** rather than
 a 2D contour fill.
 
-![ProEssentials 3D Delaunay Heightmap](https://gigasoft.com/wpf-chart/screenshots/screen414.png)
+![ProEssentials 3D Delaunay Heightmap](docs/screen414.png)
 
 ➡️ [gigasoft.com/examples/414](https://gigasoft.com/examples/414)
 
